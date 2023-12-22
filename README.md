@@ -31,7 +31,7 @@ Ensure you have the following prerequisite installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/MiguelPereiraDantas/Window3DScene.git
    ```
 Include the Three.js library in your HTML file:
 ``` html
